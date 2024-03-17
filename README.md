@@ -1,4 +1,4 @@
-while true do wait
+while true do wait()
 local args = {
     [1] = "damage",
     [2] = {
